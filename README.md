@@ -16,6 +16,6 @@ https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
+* https://th14g0cust0d10.github.io/Projeto_Modelagem_Preditiva_Ativo_Financeiro/
 
 ---
