@@ -1,5 +1,4 @@
-# **Modelagem Preditiva - Simulação de Monte Carlo e Séries Temporais
-Modelagem Ativo Financeiro Vale3**
+# **Modelagem Preditiva - Simulação de Monte Carlo e Séries Temporais - Modelagem Ativo Financeiro Vale3**
 
 *Portfólio Thiago Gonçalves Custódio*
 
