@@ -6,7 +6,7 @@
 
 ---
 
-![](https://ya-webdesign.com/image/stock-market-transparent-png/857676.html)
+![](StockMarket.png)
 
 Através de modelagem preditiva financeira prever comportamento para os próximos dias do Ativo Financeiro Vale3.
 
