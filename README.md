@@ -6,7 +6,7 @@
 
 ---
 
-![](StockMarket.png)
+![](modelagefin.png)
 
 Através de modelagem preditiva financeira prever comportamento para os próximos dias do Ativo Financeiro Vale3.
 
